@@ -68,4 +68,4 @@ In active development. Not yet built: two-step sign-in, single sign-on, several 
 
 Built by **Pranjali Singh**, a BCA graduate from Nepalgunj, Nepal, as a way to learn a modern real-time stack end to end while building something people could actually use.
 
-Interested in a walkthrough? Message me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE).
+Interested in a walkthrough? Message me on [LinkedIn](https://www.linkedin.com/in/pranjali-singh-08053236b).
